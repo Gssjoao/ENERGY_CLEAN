@@ -48,7 +48,7 @@ a{
     margin-bottom: 0;  Remove margem inferior do p 
 }*/
 aside {
-    background-color: #f9f9f954;
+    background-color: #a39f9f;
     display: flex; /* Usar flexbox para alinhar verticalmente */
     
     height: 100%; /* Ocupar toda a altura do body */
